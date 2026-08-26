@@ -3,10 +3,10 @@ Computer Engineering Undergraduate
 
 Focused on Embedded Systems, Digital Logic Design, and Software & Game Development.
 
-Professional Summary
+Professional Summary:
 Computer Engineering student with a strong foundation in hardware-software co-design, embedded controllers, and desktop application engineering. Experienced in designing modular software architectures, simulating digital and analog circuits, and implementing low-level firmware.
 
-Technical Competencies
+Technical Competencies:
 Programming & Hardware Description: C, C++, C#, Java, SQL, Python, HTML5, CSS, JavaScript, Verilog HDL, Unity Engine,  Intel 8085 Assembly
 
 Embedded Platforms & Hardware: ESP32, NI myRIO, LabVIEW, Microcontroller Interfacing
@@ -15,7 +15,7 @@ Electronic Design Automation (EDA) & Simulation: LTspice, OrCAD Capture, ModelSi
 
 Software Platforms & Development Tools: .NET Framework, Visual Studio, Git, Linux Environments
 
-Areas of Focus
+Areas of Focus:
 Embedded firmware and IoT device integration
 
 Digital systems, state machine design, and hardware verification
