@@ -39,7 +39,7 @@ Analog and digital circuit schematic capture and transient analysis
 * **[Cashier & Inventory Management System](https://github.com/ashraf-12/cashier-inventory-billing-system-c)**: A multi-module Point of Sale (POS) and inventory tracking console application written in C, featuring delimiter-based file persistence, buffer-safe input validation, and role-based access control.
 
 #### 3. Interactive Software & Simulations
-* *(Your gaming/simulation engine projects will go here)*
+* **[Flappy Bird 2D (Unity Engine)](https://github.com/ashraf-12/flappy-bird-2d-unity)**: A 2D physics-driven arcade game built in Unity (C#) implementing Rigidbody2D impulse mechanics, procedural pipe gap spawning, decoupled observer event architectures, and persistent score serialization.
 
 ---
 
