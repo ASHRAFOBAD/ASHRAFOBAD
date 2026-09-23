@@ -42,6 +42,7 @@ Analog and digital circuit schematic capture and transient analysis
 #### 3. Interactive Software & Simulations
 * **[Flappy Bird 2D (Unity Engine)](https://github.com/ASHRAFOBAD/flappy-bird-2d-unity)**: A 2D physics-driven arcade game built in Unity (C#) implementing Rigidbody2D impulse mechanics, procedural pipe gap spawning, decoupled observer event architectures, and persistent score serialization.
 * **[Catacomb: 3D Horror Survival (Unity Engine)](https://github.com/ASHRAFOBAD/catacomb-3d-horror-unity)**: A first-person 3D survival horror maze game built in Unity (C#) featuring two difficulty-tiered labyrinth layouts, NavMesh waypoint patrol and chase AI, interactive reach trigger mechanics, weapon sway, and combat/death state machines.
+* * **[LuaLander 2D (Unity Engine)](https://github.com/ASHRAFOBAD/lualander-2d-physics-unity)**: A 2D physics-driven lunar landing game in Unity (C#/URP) implementing continuous Rigidbody2D impulse thrust, vector dot-product landing angle evaluation, procedural Sprite Shape terrain, multi-tier score multiplier pads, and fuel conservation mechanics.
 
 ---
 
